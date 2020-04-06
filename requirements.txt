@@ -1,4 +1,4 @@
 tqdm
-PyYAML
+pyyaml
 numpy
 git+git://github.com/justaddcoffee/N2V.git@phenotype_matching#egg=n2v
